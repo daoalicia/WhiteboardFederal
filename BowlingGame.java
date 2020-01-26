@@ -3,6 +3,9 @@ import java.util.HashMap;
 /**
  * Technical exercise for Whiteboard Federal Technologies.
  * 
+ * Note: There's a commented out section of code from lines 85-89 that can be
+ * used to test each frame's total score.
+ *
  * @author Alicia Dao
  * @version January 25, 2020
  * 
